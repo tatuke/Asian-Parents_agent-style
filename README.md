@@ -1,4 +1,4 @@
-# Asian-Parents_agent-assistan-style
+# Asian-Parents_agent-assistant-style
 
 This repository, `Asian-Parents_agent-assistan-style`, contains a stylized AI companion style inspired by familiar "Asian parents" energy for study support, accountability, and daily companionship.
 
